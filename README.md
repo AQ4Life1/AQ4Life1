@@ -1,20 +1,16 @@
-Welcome visitor, to the world & life of AQ 👀
-To introduce myself, I'm a computer engineer who's obsessed with the digital world. Especially Flutter!
-I have been in the development industry since 2019 and still going in, my main field of expertise is Mobile
-Development via the Flutter framework.
-4 years in this field were more than enough to show me the essentials for being a pro in the digital world.
-From this journey I gained a lot of contacts, friends and technical skills that I proudly say I'm a master of.
-Such as:
-- OOP priniciples understanding.
-- Different data structures & how to implement them.
-- The different network levels of a mobile application.
-- Basic understanding of the web structure.
-- Handling APIs different responses and parsing them.
-- The essentials of UX design & workflow.
-And much more!
+👋 Welcome visitor, to the fascinating world & life of AQ! 🌎
 
-My goal is to become a development business owner with a team of my kind so we could all reach success & become
-on the top of our own world, but this vision requires hard work and sweat. So, this profile will be the history
-of how I made my dreams & visions come to life.
+Let me introduce myself - I'm a passionate computer engineer with an insatiable thirst for everything digital. My heart beats for the Flutter framework, and I've been deeply entrenched in the development industry since 2019 - and I'm still going strong. 🚀
 
-I hope that you enjoy your visit through my repos hoping you a lovely, safe and a wonderful life. ❤
+With 4+ years of experience under my belt, I can confidently say that I'm a seasoned pro in Mobile Development via Flutter. 📱 Throughout my journey, I've gained a wealth of contacts, friends, and technical skills that I'm proud to have mastered. Here are a few highlights:
+
+🔹 Strong understanding of OOP principles
+🔹 In-depth knowledge of various data structures and how to implement them
+🔹 Familiarity with the different network levels of a mobile application
+🔹 Basic understanding of the web structure
+🔹 Expertise in handling APIs' different responses and parsing them
+🔹 Proficiency in UX design and workflow
+
+But that's not all! There's so much more to learn, and I'm always up for a challenge. My ultimate goal is to become a development business owner, leading a team of like-minded individuals to the top of our industry. 💪 However, I know that achieving this vision requires hard work, dedication, and a lot of sweat. This profile will document my journey towards making my dreams a reality.
+
+I hope you enjoy exploring my repositories, and I wish you a lovely, safe, and wonderful life. ❤️
